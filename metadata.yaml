@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27590#Cabiria--Visione-storica-del-terzo-secolo-A.-C.
 gutenberg_bookshelf: IT Arte varia
 gutenberg_issued: '2008-12-22'
 gutenberg_type: Text
